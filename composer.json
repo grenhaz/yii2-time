@@ -1,0 +1,17 @@
+{
+    "name": "grenhaz/yii2-time",
+	"version": "1.0.0",
+    "minimum-stability": "dev",
+    "description": "Yii2 Time input wrapper",
+	"keywords": ["input","time"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "require": {
+        "yiisoft/yii2": "~2.0.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "grenhaz\\time\\": "src"
+        }
+    }
+}
