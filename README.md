@@ -27,3 +27,8 @@ Basic Usage
 ```php
 <?= $form->field( $model, 'time' )->widget( TimeWidget::classname() ) ?>
 ```
+
+Example
+-------
+
+![Example](example.png?raw=true "Example")
